@@ -1,6 +1,6 @@
 # Algorithm Problem Solutions 📚💻
 
-Welcome to the **Algorithm Problem Solutions** repository! 🚀 This repository is a collection of well-documented, optimized solutions for common algorithmic problems. Whether you're preparing for coding interviews, competitive programming contests, or just want to strengthen your problem-solving skills, this repo has you covered! 🌟
+Welcome to the **Algorithm Problem Solutions** section! 🚀 This section is a collection of well-documented, optimized solutions for common algorithmic problems. Whether you're preparing for coding interviews, competitive programming contests, or just want to strengthen your problem-solving skills, this section has you covered! 🌟
 
 ---
 
