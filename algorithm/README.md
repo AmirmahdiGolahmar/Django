@@ -47,4 +47,4 @@ Contributions are welcome! If you have a solution for a problem that isn't cover
 
 ## 🌐 Connect:
 - GitHub: [@AmirmahdiGolahmar](https://github.com/AmirmahdiGolahmar)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amirmahdi-golahmar)
+- LinkedIn: [@AmirmahdiGolahmar](https://www.linkedin.com/in/amirmahdi-golahmar)
